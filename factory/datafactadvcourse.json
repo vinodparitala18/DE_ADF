@@ -1,0 +1,15 @@
+{
+	"name": "datafactadvcourse",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ad97fad3-3e35-457b-af94-21ab79d10267",
+		"tenantId": "6e413e83-9359-45a1-9169-dc669d34aaea"
+	}
+}
